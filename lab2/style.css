@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #272727;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+
+/* ----СЕКЦІЯ ВАРІАНТУ 7---- */
+.variant-section {
+  background-color: #777777;
+  color: #ffffff;
+  text-align: right; /* непарний варіант -> по правому краю */
+  padding: 7px;
+  margin: 7px;
+}
